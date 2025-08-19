@@ -16,13 +16,13 @@ End the program
 
 ## Program:
 
-Program to find the solution for the given linear equations.
-
-Developed by: A Ahil Santo
-
-RegisterNumber: 212224040018
 
 ```
+
+Program to find the solution for the given linear equations.
+Developed by: A Ahil Santo
+RegisterNumber: 212224040018
+
 import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 inv=np.linalg.inv(A)
@@ -32,7 +32,7 @@ print(inv)
 
 ## Output:
 
-<img width="965" height="351" alt="image" src="https://github.com/user-attachments/assets/45e1cba0-05f4-429f-8867-f57aa143ae45" />
+<img width="1251" height="798" alt="image" src="https://github.com/user-attachments/assets/7e711917-c488-4241-b479-a03b52184746" />
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
