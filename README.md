@@ -19,9 +19,9 @@ End the program
 
 ```
 
-Program to find the solution for the given linear equations.
-Developed by: A Ahil Santo
-RegisterNumber: 212224040018
+#Program to find the solution for the given linear equations.
+#Developed by: A Ahil Santo
+#RegisterNumber: 212224040018
 
 import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
